@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ICIT Weather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-09 15:52+0800\n"
+"PO-Revision-Date: 2011-09-09 15:59+0800\n"
+"Last-Translator: Ferris Fan <ferrisfan1988@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: icit-weather-widget.php:98
+msgid "Show the weather from a location you specify."
+msgstr "显示指定地点的天气情况。"
+
+#: icit-weather-widget.php:99
+msgid "ICIT Weather"
+msgstr "ICIT天气插件"
+
+#: icit-weather-widget.php:209
+msgid "Today"
+msgstr "今天"
+
+#: icit-weather-widget.php:221
+#, php-format
+msgid "Last updated at %1$s on %2$s"
+msgstr "最近更新于：%2$s %1$s"
+
+#: icit-weather-widget.php:225
+msgid "Weather Widget by <a href=\"http://interconnectit.com/\" title=\"Wordpress Development Specialists\" target=\"_blank\">Interconnect/IT</a>"
+msgstr "此天气插件由 <a href=\"http://interconnectit.com/\" title=\"Wordpress Development Specialists\" target=\"_blank\">Interconnect/IT</a> 开发。"
+
+#: icit-weather-widget.php:225
+msgid "Translated by <a href=\"http://www.weiku.com/\" target=\"_blank\">Weiku</a>"
+msgstr "翻译汉化-<a href=\"http://www.weiku.com/\" target=\"_blank\">Weiku</a>"
+
+#: icit-weather-widget.php:280
+msgid "Title:"
+msgstr "标题"
+
+#: icit-weather-widget.php:282
+msgid "This will override the display of the city name."
+msgstr "填写标题将会覆盖城市名称的显示。"
+
+#: icit-weather-widget.php:286
+msgid "Choose the country:"
+msgstr "选择城市："
+
+#: icit-weather-widget.php:296
+msgid "City, town, postcode or zip code:"
+msgstr "城市或者邮编："
+
+#: icit-weather-widget.php:301
+msgid "Widget display:"
+msgstr "插件显示风格："
+
+#: icit-weather-widget.php:303
+msgid "Compact"
+msgstr "紧凑"
+
+#: icit-weather-widget.php:304
+msgid "Extended"
+msgstr "延伸"
+
+#: icit-weather-widget.php:308
+msgid "Show forecast for:"
+msgstr "显示天气预报："
+
+#: icit-weather-widget.php:311
+msgid "Today only"
+msgstr "只显示今天"
+
+#: icit-weather-widget.php:311
+#, php-format
+msgid "%s days"
+msgstr "%s 天"
+
+#: icit-weather-widget.php:316
+msgid "How often do we check the weather (mins):"
+msgstr "天气更新时间间隔(分钟)："
+
+#: icit-weather-widget.php:323
+msgid "Show temperature in celsius"
+msgstr "以摄氏度显示天气"
+
+#: icit-weather-widget.php:329
+msgid "Output CSS"
+msgstr "使用默认CSS风格"
+
+#: icit-weather-widget.php:335
+msgid "Show Interconnect IT credit link"
+msgstr "显示作者链接"
+
+#: icit-weather-widget.php:339
+#, php-format
+msgid "Last updated \"%1$s\". Current server time is \"%2$s\"."
+msgstr "最近更新于 \"%1$s\"。当前服务器时间是 \"%2$s\"。"
+
+#: icit-weather-widget.php:339
+#, php-format
+msgid "Will update when the frontend is next loaded. Current server time is %2$s."
+msgstr "当插件前端再次载入时数据将更新。当前服务器时间 %2$s。"
+
+#: icit-weather-widget.php:343
+#, php-format
+msgid "The last error occured at \"%s\" with the message \"%s\"."
+msgstr "最近的错误发生在 \"%s\"，错误信息为 \"%s\"。"
+
+#: icit-weather-widget.php:344
+msgid "Clear errors: "
+msgstr "清除错误："
+
+#: includes/helpers.php:26
+#, php-format
+msgid "HTTP response code %s"
+msgstr "HTTP相应代码："
+
+#: includes/helpers.php:40
+msgid "Most likely could not find the place you were looking for or Google have broken their weather API."
+msgstr "可能无法找到你搜寻的地点，或者Google的天气API已经损坏。"
+
+#: includes/helpers.php:48
+#: includes/helpers.php:60
+#: includes/helpers.php:73
+msgid "Unexpected feed format."
+msgstr "不可预期的Feed格式。"
+
